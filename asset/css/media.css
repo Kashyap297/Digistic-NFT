@@ -1,0 +1,553 @@
+@media (max-width:1400px) {
+    .w-xxl-1{ width: 8.33%}
+    .w-xxl-2{width: 16.66%;}
+    .w-xxl-3{width: 25%;}
+    .w-xxl-4{ width: 33.33%}
+    .w-xxl-5{width: 41.66%}
+    .w-xxl-6{width: 50%;}
+    .w-xxl-7{ width: 58.33%;}
+    .w-xxl-8{width: 66.66%;}
+    .w-xxl-9{ width: 75%;}
+    .w-xxl-10{ width: 83.33%;}
+    .w-xxl-11{ width:91.66%;}
+    .w-xxl-12{width: 100%;}
+    
+    header{
+        padding: 75px 0px;
+        min-height: 200px;
+    }
+    .banner-section{
+        padding-top: 200px;
+        /* height: 90vh; */
+    }   
+    .banner-content h1{
+        /* font-size: 2.25em; */
+        line-height: 60px;
+    }
+    .investors-partner{
+        padding: 100px 0px 180px 0px;
+    }
+    .auction-item .auction-card-body img{
+        width: 325px;
+    }
+    .auction-title .ok{
+        font-size: 45px !important;
+    }
+    .auction-title .section-subtitle{
+        font-size: 16px;
+        width: 25%;
+    }
+    .awesome-creaters .creator-img-wrapper{
+        width: 300px;
+    }
+    .creators-grid{
+        margin-top: 50px;
+    }
+}
+@media (max-width:1200px) {
+    .w-xl-1{ width: 8.33%}
+    .w-xl-2{width: 16.66%;}
+    .w-xl-3{width: 25%;}
+    .w-xl-4{ width: 33.33%}
+    .w-xl-5{width: 41.66%}
+    .w-xl-6{width: 50%;}
+    .w-xl-7{ width: 58.33%;}
+    .w-xl-8{width: 66.66%;}
+    .w-xl-9{ width: 75%;}
+    .w-xl-10{ width: 83.33%;}
+    .w-xl-11{ width:91.66%;}
+    .w-xl-12{width: 100%;}
+
+    .banner-content{
+        padding-left: 25px;
+    }
+    .banner-slider{
+        margin-right: 15px;
+    }
+    .investors-partner{
+        padding: 100px 0px;
+    }
+    .why-list{
+        padding-left: 80px;
+    }
+    .join-community-buttons{
+        padding-left: 170px;
+        margin-top: 60px;
+    }
+    .join-community-img img{
+        max-width: 320px;
+    }
+    .join-community-img{
+        position: absolute;
+        width: 0% !important;
+        left: 35%;
+        bottom: 0;
+        transform: translateX(-50%);    
+    }
+    .join-community-cont h2{
+        font-size: 32px;
+    }
+    .join-community{
+        padding: 60px 40px;
+    }
+    .roadmap-list>li .roadmap-images {
+        max-width: 320px;
+    }
+    .roadmap-content h3{
+        font-size: 23px;
+    }
+    .roadmap-content ul li{
+        font-size: 18px !important;
+    }
+    .auction-title{
+        padding-left: 45px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .auction-section .auction-carousel .owl-nav {
+        position: absolute;
+        top: 237px;
+        left: -365px;
+    }
+    .auction-title .ok {
+        font-size: 35px !important;
+    }
+    .auction-section {
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .awesome-creaters .creator-tops .section-subtitle{
+        font-size: 16px;
+    }
+    .creator-tops .section-title{
+        font-size: 40px !important;
+    }
+    .awesome-creaters .btn-container{
+        margin-top: 95px;
+    }
+    .creators-grid {
+        padding-left: calc((100vw - 930px) / 2);
+    }
+}
+@media (max-width:992px) {
+    .w-lg-1{ width: 8.33%}
+    .w-lg-2{width: 16.66%;}
+    .w-lg-3{width: 25%;}
+    .w-lg-4{ width: 33.33%}
+    .w-lg-5{width: 41.66%}
+    .w-lg-6{width: 50%;}
+    .w-lg-7{ width: 58.33%;}
+    .w-lg-8{width: 66.66%;}
+    .w-lg-9{ width: 75%;}
+    .w-lg-10{ width: 83.33%;}
+    .w-lg-11{ width:91.66%;}
+    .w-lg-12{width: 100%;}
+
+    .banner-content{
+        text-align: center;
+    }
+    .adding-creaters{
+        justify-content: center !important;
+    }
+    .banner-slider{
+        margin-top: 100px;
+        /* margin: auto; */
+    }
+    .why-digistic{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .why-digistic .feature-img{
+        margin: 0 auto;
+        margin-top: 100px;
+        max-width: 400px;
+    }
+    .why-digistic .why-list{
+        padding-left: 0px;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 0;
+    }
+
+    .why-digistic .feature-content li{
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .why-digistic .why-list h3{
+        font-size: 2em;
+        font-weight: bold;
+        font-family: var(--font-roboto);
+        margin-top: 10px;
+        margin-bottom: 5px;
+        color: #5f6465;
+    }
+    .why-digistic .why-list h6{
+        font-size: 1.3em;
+        font-family: var(--font-roboto);
+        color: #5f6465;
+        font-weight: 300;
+    }
+    .section-subtitle{
+        font-size: 1.3em;
+    }
+    .join-community-cont{
+        padding-right: 0px;
+        text-align: center;
+        padding: 0px 70px;
+    }
+    .join-community-buttons{
+        padding: 0px 40px;
+        margin-top: 20px;
+    }
+    #join-community{
+        padding: 50px 0px;
+    }
+    .join-community{
+        padding: 50px 20px 345px;
+    }
+    .join-community-img{
+        position: absolute;
+        width: 0% !important;
+        left: 25%;
+        bottom: 0;
+        transform: translateX(-50%);    
+    }
+    .join-community-cont h2{
+        font-size: 38px;
+    }
+    .roadmap-images img{
+        display: none;
+    }
+    .roadmap .btn-container{
+        justify-content: center;
+    }
+    .roadmap-list{
+        padding-top: 0px;
+        padding-left: 0px !important;
+    }
+    .roadmap-list>li{
+        padding: 25px 0px;
+    }
+    .roadmap{
+        padding-top: 30px;
+    }
+    .auction-section{
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+    }
+    .auction-title{
+        position: inherit;
+        display: inline;
+        padding: 0px 40px;
+        width: 100%;
+    }
+    .auction-title .section-subtitle {
+        font-size: 16px !important;
+        width: 50%;
+    }
+    .auction-section .auction-cards{
+        margin: 0;
+        width: 100%;
+        padding-left: 40px;
+    }
+    .auction-title .ok {
+        font-size: 43px !important;
+    }
+    .auction-title>* {
+        width: 400px;
+        max-width: 100% !important;
+    }
+    .awesome-creaters .creator-tops .section-subtitle{
+        font-size: 16px;
+        width: 100% !important;
+    }
+    .creator-tops .btn-container{
+        margin-top: 0px;
+        margin-bottom: 50px;
+    }
+    .creator-tops .section-title{
+        width: 60%; 
+    }
+    .creators-grid {
+        margin-top: 10px;
+        padding-left: calc((100vw - 690px) / 2);
+    }
+    .team-member {
+        display: flex;
+        flex-wrap: wrap;
+        padding-bottom: 20px;
+        gap: 0;
+    }
+    .team-member-img img {
+        width: 100%;
+    }
+    .footer-bottom {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .aadd{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .footer-bottom .brand-logo{
+        display: none;
+    }
+    .footer-bottom .footer-info{
+        display: none;
+    }
+    .footer-bottom .copyright-p , .footer-social{
+        text-align: center;
+        margin-top: 20px;
+    }
+    @keyframes updown {
+        0%{
+            top: 200px;
+        }
+        50%{
+            top: 0px;
+        }
+        100%{
+            top: 200px;
+        }
+    }
+}
+
+@media (max-width:768px) {
+    .w-md-1{ width: 8.33%}
+    .w-md-2{width: 16.66%;}
+    .w-md-3{width: 25%;}
+    .w-md-4{ width: 33.33%}
+    .w-md-5{width: 41.66%}
+    .w-md-6{width: 50%;}
+    .w-md-7{ width: 58.33%;}
+    .w-md-8{width: 66.66%;}
+    .w-md-9{ width: 75%;}
+    .w-md-10{ width: 83.33%;}
+    .w-md-11{ width:91.66%;}
+    .w-md-12{width: 100%;}
+
+    header{
+        padding: 25px 0px 50px;
+        min-height: 50px;
+    }
+    .banner-section{
+        padding-top: 150px;
+        padding-bottom: 80px;
+        transition: all 0.5s linear;
+    }
+    .investors-partner{
+        padding: 50px 0px 35px 0px;
+    }
+    .investors-grid.owl-carousel{
+        margin-top: 0px;
+    }
+    .why-digistic .feature-img .main-img{
+        margin-top: 35px;
+        top: 0;
+        width: 100%;
+        left: 55%;
+    }
+    .why-digistic .feature-img .main-img img{
+        max-width: 330px;
+    }
+    .why-digistic .feature-img .vector-imgs img{
+        max-height: 500px;
+    }
+    .why-digistic .feature-img .vector-imgs img.line-1{
+        margin-top: -30px;
+    }
+    .why-digistic .feature-img .vector-imgs img.line-3{
+        margin-top: -50px;
+    }
+    .why-digistic .why-list li{
+        width: calc(50% - 7px);
+        text-align: center;
+    }
+    .why-digistic .why-list{
+        padding-left: 0px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 40px;
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+    .join-community-cont h2{
+        font-size: 30px;
+    }
+    .join-community-cont{
+        padding-right: 0px;
+        text-align: center;
+        padding: 0px 0px;
+    }
+    .join-community-buttons{
+        padding: 0px 10px;
+        margin-top: 20px;
+    }
+    .join-community-img img{
+        max-width: 245px;
+    }
+    .join-community{
+        padding: 50px 20px 270px;
+    }
+    .roadmap-list>li{
+        display: block;
+    }
+    .roadmap .btn-container{
+        padding-left: 0px !important;
+        padding-top: 40px !important;
+    }
+    .roadmap p{
+        margin-bottom: 0px;
+    }
+    .auction-item .auction-card-body img{
+        width: 230px !important;
+    }
+    .auction-carousel.owl-carousel.owl-drag .owl-item{
+        width: 230px !important;
+    }
+    .auction-item:hover .auction-card-footer{
+        display: none;
+    }
+    .owl-item{
+        margin-right: 14px !important;
+    }
+    .btn-auction {
+        max-width: 120px !important;
+        width: 100% !important;
+        padding: 0 1.5rem !important;
+        border-radius: 50px !important;
+        font-size: 0.90em !important;
+        min-height: 40px !important;
+        line-height: 100%;
+        font-family: var(--font-roboto) !important;
+        font-weight: 500 !important;
+        border: none !important;
+        transition: .5s all !important;
+        z-index: 2;
+        color: white !important;
+    }
+    .auction-section{
+        padding: 20px 25px 50px 0px;
+    }
+    .auction-item .auction-card-footer {
+        display: none;
+    }
+    .awesome-creaters .btn-container{
+        display: none !important;
+    }
+    .awesome-creaters .creator-img-wrapper{
+        width: 100%;
+    }
+    .creators-grid {
+        padding-left: 24px;
+    }
+    /* .creator-tops{
+        padding-left: 24px;
+    } */
+    .wp-content .fa-paperclip {
+        padding-right: 10px;
+    }
+    .wp-content .fa-camera{
+        padding-right: 22px;
+    }
+    .footer-about ul{
+        display: none;
+    }
+    .footer-about {
+        border-bottom: 1px solid #e5e5e5;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    @keyframes updown {
+        0%{
+            top: 120px;
+        }
+        50%{
+            top: 0px;
+        }
+        100%{
+            top: 120px;
+        }
+    }
+}
+@media (max-width:576px) {
+    .w-sm-1{ width: 8.33%}
+    .w-sm-2{width: 16.66%;}
+    .w-sm-3{width: 25%;}
+    .w-sm-4{ width: 33.33%}
+    .w-sm-5{width: 41.66%}
+    .w-sm-6{width: 50%;}
+    .w-sm-7{ width: 58.33%;}
+    .w-sm-8{width: 66.66%;}
+    .w-sm-9{ width: 75%;}
+    .w-sm-10{ width: 83.33%;}
+    .w-sm-11{ width:91.66%;}
+    .w-sm-12{width: 100%;}
+
+    .banner-section{
+        padding-top: 120px;
+        transition: all 0.5s linear;
+    }
+    .banner-content h1{
+        line-height: 50px;
+    }
+    .why-digistic{
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    .join-community-img{
+        display: none;   
+    }
+    .join-community{
+        padding: 50px 20px;
+    }
+    .roadmap .btn-container{
+        padding-top: 30px;
+    }
+    .roadmap{
+        padding-bottom: 50px;
+    }
+    .auction-title {
+        position: inherit;
+        display: inline;
+        padding: 0px 20px;
+        width: 100%;
+    }
+    .auction-section .auction-cards {
+        margin: 0;
+        width: 100%;
+        padding-left: 13px;
+    }
+    .auction-section{
+        padding: 20px 10px 50px 0px;
+    }
+    .creator-tops .section-title {
+        width: 70%;
+    }
+    .awesome-creaters .creator-tops {
+        padding-left: 15px;
+    }
+    .creator-tops .section-title {
+        width: 80%;
+    }
+    .team-member-list{
+        padding-left: 0px;
+    }
+    
+}
+@media (max-width:280px) {
+    .w-xs-1{ width: 8.33%}
+    .w-xs-2{width: 16.66%;}
+    .w-xs-3{width: 25%;}
+    .w-xs-4{ width: 33.33%}
+    .w-xs-5{width: 41.66%}
+    .w-xs-6{width: 50%;}
+    .w-xs-7{ width: 58.33%;}
+    .w-xs-8{width: 66.66%;}
+    .w-xs-9{ width: 75%;}
+    .w-xs-10{ width: 83.33%;}
+    .w-xs-11{ width:91.66%;}
+    .w-xs-12{width: 100%;}
+}
